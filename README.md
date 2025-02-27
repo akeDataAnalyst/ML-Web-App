@@ -1,1 +1,1 @@
-# ML-Web-App
+# Salary Prediction

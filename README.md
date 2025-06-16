@@ -23,12 +23,12 @@ This Streamlit application predicts software developer salaries based on country
 2. Exploration Dashboard
    - Country distribution charts
      
-![](predictioninterface.PNG)
+![](exploreinterface01.PNG)
 
    -  Salary trend visualizations
 
-![](predictioninterface.PNG)
-
+![](exploreint02.PNG)
+![](explore03.PNG)
 ## Project Structure
 salary-prediction-app
   - data                  # Processed survey data

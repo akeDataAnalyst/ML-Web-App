@@ -8,3 +8,12 @@ This Streamlit application predicts software developer salaries based on country
 - Salary Prediction: ML-powered salary estimator
 - Data Exploration: Interactive visualizations of global developer trends
 - User-Friendly Interface: Simple sliders and dropdown inputs
+
+## App Interface Preview
+1. Prediction Interface
+![alt text](image.jpg)
+- Inputs:
+  - Country selection (e.g., United States)
+  - Education level (e.g., "Less than a Bachelors")
+  - Years of experience slider
+- Output: Predicted salary with USD conversion

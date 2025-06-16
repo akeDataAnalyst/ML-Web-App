@@ -45,7 +45,7 @@ salary-prediction-app
 ## Deployment via Streamlit Sharing:
 - Push code to GitHub repository
 - Connect GitHub account at [](share.streamlit.io)
-- Select repo and set main file to salary_app.py
+- Select repo and set main file 
 - Streamlit automatically installs dependencies from requirements.txt
 
 # Thank You for Your Time! 

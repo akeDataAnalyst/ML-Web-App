@@ -4,3 +4,7 @@ This Streamlit application predicts software developer salaries based on country
 
 [Softwer Developer Salary Prediction](https://ml-web-app-dzefxzjgce2krfmyqma3tl.streamlit.app)
 
+### Key Features:
+- Salary Prediction: ML-powered salary estimator
+- Data Exploration: Interactive visualizations of global developer trends
+- User-Friendly Interface: Simple sliders and dropdown inputs

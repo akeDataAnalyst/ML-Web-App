@@ -19,3 +19,26 @@ This Streamlit application predicts software developer salaries based on country
   - Education level (e.g., "Less than a Bachelors")
   - Years of experience slider
 - Output: Predicted salary with USD conversion
+
+2. Exploration Dashboard
+   - Country distribution charts
+     
+![](predictioninterface.PNG)
+
+   -  Salary trend visualizations
+
+![](predictioninterface.PNG)
+
+## Project Structure
+salary-prediction-app/
+├── data/                   # Processed survey data
+│   └── survey_results_public.csv
+├── models/                 # Trained ML models
+│   └── saved_steps.pkl
+├── salary_app.py                  # Main application
+├── etl_pipeline.py         # Data processing scripts
+├── requirements.txt        # Dependencies
+└── README.md
+
+
+  

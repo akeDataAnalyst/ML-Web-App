@@ -31,16 +31,22 @@ This Streamlit application predicts software developer salaries based on country
 ![](explore03.PNG)
 ## Project Structure
 salary-prediction-app
-  - data                  # Processed survey data
+  - data                  # survey data
      - survey_results_public.csv
-  - models                # Trained ML models
+  - models                # Trained model pipeline
      - saved_steps.pkl
-  - salary_app.py                  # Main application
-  - predict_page.py
-  - explore_page.py
-  - salarypred.ipynb         # Data processing scripts
+  - salary_app.py              # Main application
+  - predict_page.py           # Prediction page logic
+  - explore_page.py           # Dashboard page logic
+  - salarypred.ipynb         # ETL and model training notebook
   - requirements.txt        # Dependencies
   - README.md
 
+## Deployment via Streamlit Sharing:
+- Push code to GitHub repository
+- Connect GitHub account at [](share.streamlit.io)
+- Select repo and set main file to salary_app.py
+- Streamlit automatically installs dependencies from requirements.txt
 
+# Thank You for Your Time! 
   

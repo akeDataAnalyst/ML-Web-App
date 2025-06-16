@@ -11,7 +11,9 @@ This Streamlit application predicts software developer salaries based on country
 
 ## App Interface Preview
 1. Prediction Interface
-![alt text](image.jpg)
+
+![](predict.PNG)
+
 - Inputs:
   - Country selection (e.g., United States)
   - Education level (e.g., "Less than a Bachelors")
